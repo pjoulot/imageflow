@@ -1,0 +1,7 @@
+imageflow.config:
+  type: mapping
+  label: 'Imageflow image settings'
+  mapping:
+    jpeg_quality:
+      type: integer
+      label: 'JPEG quality'

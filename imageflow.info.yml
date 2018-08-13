@@ -1,0 +1,9 @@
+name: Imageflow
+type: module
+description: 'Imageflow toolkit for image manipulation within Drupal'
+package: Imageflow
+version: VERSION
+core: 8.x
+configure: system.image_toolkit_settings
+dependencies:
+ - drupal:image
